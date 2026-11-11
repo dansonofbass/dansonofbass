@@ -1,5 +1,6 @@
 Full-Stack Software Developer | FinTech & Financial Systems
 React · Next.js · TypeScript · Python · Node.js · PostgreSQL
+
 telegram : @Thevel0per
 
 <!---
