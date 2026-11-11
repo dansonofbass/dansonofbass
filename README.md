@@ -1,9 +1,5 @@
-Hi :D
-I'm a Full-Stack Developer  
-Recently focused on Data Science, ML, and AI.  
-I love combining creativity with tech,  
-always eager to learn new scientific insights  
-and build impactful solutions.
+Full-Stack Software Developer | FinTech & Financial Systems
+React · Next.js · TypeScript · Python · Node.js · PostgreSQL
 telegram : @Thevel0per
 
 <!---
